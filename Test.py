@@ -1,14 +1,4 @@
 from colorama import Fore, Back, Style
-import socket
-import os
-import requests
-import random
-import getpass
-import time
-import sys
-
-def clear():
-    os.system('cls' if os.name == 'nt' else 'clear')
 
 def si():
     print("Zalo/Call: 0782554949")
